@@ -1,0 +1,8 @@
+#Instrucciones 
+/archivos/conexion.txt
+*.meta
+*.class
+/archivos/B/sub 1/dato 4.zzz
+/archivos/A/SUB 1/estado/*
+!/archivos/A/SUB 1/estado/feliz.html
+/archivos/B/sub 2/datos/
